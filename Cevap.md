@@ -35,6 +35,6 @@ Selection Sort
 
 6)2-3-4-5-6-7-8-15-9 (7 <-> 9)
 
-7)2-3-4-5-6-7-8-15-9 (8'ten sonraki sayılarda 8'ten küçük sayı yok)
+7)2-3-4-5-6-7-8-15-9 (8'den sonraki sayılarda 8'den küçük sayı yok)
 
 8)2-3-4-5-6-7-8-9-15 (9 <-> 15)
